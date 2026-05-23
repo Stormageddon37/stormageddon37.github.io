@@ -65,7 +65,7 @@ But the original _wasn't_ open source - I had no right to modify it. Publishing 
 
 At some point, I considered porting the code from Java to Rust (speed, type safety, hype, cult, etc.) and I was reminded of [The Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) - at which point is the "stolen" code no longer stolen? If I change 1 line? If I change over 50% of the code? All the code? 
 
-There's no right answer. This case is even more complicated once you realize the "upstream" for my fork "keeps" evolving and our paths keep diverging ever further from each other.
+There's no right answer. This case is even more complicated once you realize the "upstream" for my fork keeps evolving and our paths keep diverging ever further from each other.
 
 We live in age where in a few hours, you can take someone else's hard work, break it down to core essentials, then rebuild it as you see fit. Like a God within a repo. The mental image of Doctor Manhattan comes to mind:
 
@@ -89,7 +89,7 @@ Projecting this out into the future, this would split every code project under t
 
 ![the phylogenetic tree for coral](coral.svg)
 
-We could live in a future where marketplaces for managing these trees of forks upon forks for every project exist - non just open source. Anyone could download an alternative version for their least-liked pieces of software and they could fork it as their own immediately. The average person will most likely not see the point of submitting a pull request (or patch, depending on your terminology) to a project they forked for themselves. Sure, they could publish their new version as-is to that marketplace too, but that's not the same. A sort of "selfish forking".
+We could live in a future where marketplaces for managing these trees of forks upon forks for every project exist - not just open source. Anyone could download an alternative version for their least-liked pieces of software and they could fork it as their own immediately. The average person will most likely not see the point of submitting a pull request (or patch, depending on your terminology) to a project they forked for themselves. Sure, they could publish their new version as-is to that marketplace too, but that's not the same. A sort of "selfish forking".
 
 Today, open source projects have forks but they usually still operate under the same principles of open source contributions.
 As writing code becomes less of a requirement for previously-highly-technical tasks, the people of the future could fragment projects exponentially faster than our "ancient" forks.
@@ -100,6 +100,6 @@ There are better options.
 
 Imagine the following thought experiment:
 
-It is the year <span id="future-year"></span><script>document.getElementById('future-year').textContent = new Date().getFullYear() + 50;</script> and all your personal electronics (phone, laptop, PC, smartwatch, etc.) run a totally agentic operating system. You'll use them for all your usual activities but instead of performing a selfish fork, the kernel agent automatically negotiates submitting your ideas for patches against a known central hub. You'll get your own version immediately, while two LLms go back and forth arguing in the PRs comments. By automatically bringing up that new idea, we have a win-win. The user gets what they want on the spot and the project is no longer shattered and fragmented. No need for endless forks with minor changes between them and complex, ever-evolving trees. A project's directorial agent simply negotiates incoming PRs, enabling faster than ever time from the user experiencing an issue to another user never having to notice it. The spirit of open source is kept alive.
+It is the year <span id="future-year"></span><script>document.getElementById('future-year').textContent = new Date().getFullYear() + 50;</script> and all your personal electronics (phone, laptop, PC, smartwatch, etc.) run a totally agentic operating system. You'll use them for all your usual activities but instead of performing a selfish fork, the kernel agent automatically negotiates submitting your ideas for patches against a known central hub. You'll get your own version immediately, while two LLMs go back and forth arguing in the PR's comments. By automatically bringing up that new idea, we have a win-win. The user gets what they want on the spot and the project is no longer shattered and fragmented. No need for endless forks with minor changes between them and complex, ever-evolving trees. A project's directorial agent simply negotiates incoming PRs, enabling faster than ever time from the user experiencing an issue to another user never having to notice it. The spirit of open source is kept alive.
 
 I didn't end up porting it to Rust.
