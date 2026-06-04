@@ -1,3 +1,3 @@
 # Blog
 
-https://stormageddon37.github.io/
+https://nitz.blog/
