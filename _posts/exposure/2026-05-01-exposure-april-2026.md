@@ -5,6 +5,7 @@ toc: true
 categories:
   - Exposure Report
 ---
+
 ## TV
 - Finished "Daredevil" S3 - very good finale
 - "Invincible" S4 was incredible
