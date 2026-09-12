@@ -10,7 +10,7 @@ categories:
 - Started "Spider-Noir" - DNF
 
 ## Blog Posts
-- https://runjs.app/blog/music-theory-for-programmers - I had this exact same idea for a post for my blog since I wanted to learn music theory in a rigorous manner - to truly understand notes and chords in terms of frequency and time. It's a pretty neat interactive read.
+- [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers) - I had this exact same idea for a post for my blog since I wanted to learn music theory in a rigorous manner - to truly understand notes and chords in terms of frequency and time. It's a pretty neat interactive read.
 
 ## My Tech
 - I published an [Obsidian plugin](https://github.com/Stormageddon37/obsidian-polaroid)!
